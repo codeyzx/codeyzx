@@ -11,7 +11,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -42,13 +42,14 @@ Sunday       47 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 hrs 22 mins       █████████████████████████   99.81% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 22 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
@@ -65,5 +66,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2022 07:30:55 UTC
+ Last Updated on 20/08/2022 22:08:28 UTC
 <!--END_SECTION:waka-->
