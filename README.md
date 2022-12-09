@@ -11,7 +11,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2028%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -65,5 +65,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2022 22:08:25 UTC
+ Last Updated on 09/12/2022 22:08:03 UTC
 <!--END_SECTION:waka-->
