@@ -42,13 +42,14 @@ Sunday       80 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     44 mins             █████████████████████████   99.57% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    44 mins             █████████████████████████   100.0%
 
 ```
 
@@ -65,5 +66,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2023 22:08:21 UTC
+ Last Updated on 31/01/2023 22:08:10 UTC
 <!--END_SECTION:waka-->
