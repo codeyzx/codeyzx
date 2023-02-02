@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codeyzx&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<!-- 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2016%20mins-blue)
 
@@ -70,3 +70,4 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 01/02/2023 22:08:40 UTC
 <!--END_SECTION:waka-->
+ -->
