@@ -1,4 +1,4 @@
-🌱 I’m currently learning Backend and Mobile Multi-Platform.
+- 🌱 I’m currently learning Backend and Mobile Multi-Platform.
 - 👯 I’m looking to collaborate on Open Source projects
 - 📫 You can reach me at my instagram <a href="https://www.instagram.com/codeyzx/">@codeyzx</a>
 
